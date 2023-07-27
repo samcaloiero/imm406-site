@@ -22,4 +22,4 @@ For example, if we were looking at fine repetitive textures, perhaps there is a 
 ### Rubric
 - Is the Constraint stated?
 - Is the constrant effectively explored?
-- Have you "Shown me too far?"
+- Have you "Shown Me Too Much?"
