@@ -4,5 +4,39 @@
 
 hr::before .subdivider{
   width: 50%;
+}
+
+li strong {
+  color: var(--color-neutral-shade3);
+}
+
+html {
+  --color-primary-shade: hsl(350, 100%, 80%);
+  --color-primary: hsl(350, 80%, 60%);
+  --color-primary-tint: hsl(350, 60%, 40%);
+  --color-accent-shade: hsl(170, 100%, 80%);
+  --color-accent: hsl(170, 80%, 60%);
+  --color-accent-tint: hsl(170, 60%, 40%);
+  --color-link: hsl(230, 60%, 50%);
+  --color-link-visited: hsl(290, 60%, 50%);
+  --color-link-hover: hsl(230, 80%, 60%);
+  --color-link-active: hsl(350, 60%, 50%);
+  --color-neutral-shaded: hsl(170, 10%, 98%);
+  --color-neutral-shade2: hsl(170, 10%, 85%);
+  --color-neutral-shade1: hsl(170, 10%, 68%);
+  --color-neutral: hsl(170, 10%, 55%);
+  --color-neutral-tint1: hsl(170, 10%, 41%);
+  --color-neutral-tint2: hsl(170, 10%, 30%);
+  --color-neutral-tint3: hsl(170, 10%, 18%);
+  --color-neutral-tinted: hsl(170, 10%, 2%);
+
+  --color-neutral-tint4: #232425;
+  --color-neutral-shade3: #A49393;
+  --color-neutral-shade4: #f6eef0;
+  --color-neutral-tint1: #A49393;
+  --color-link:#E3DEDE;
+  --color-link-visited:#CEC5C5;
+  --color-link-hover: #8F7A7A;
 
 }
+
