@@ -5,6 +5,8 @@ order: 12
 
 Work in groups to create a prototype, a finished and playable experience.
 
+The final prototype can, but does not have to be, an iteration on a previous prototype or sketch from the class.
+
 ## Rubric
 *Rubric suject to indididual project adjustment/balance.*
 
