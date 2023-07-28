@@ -1,4 +1,4 @@
-baseURL = 'https://imm406.hdyar.com/'
+baseURL = 'https://prototyping.hdyar.com/'
 languageCode = 'en-us'
 title = 'Immersive Media 406'
 theme = "hugo-theme-onepagecourse"
