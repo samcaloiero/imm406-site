@@ -11,7 +11,7 @@
                 {{ $image := $image.Fill "400x400 center" }}
                   <div class="grid-item grid-item-image" style="background: center / contain no-repeat url({{  $image.RelPermalink }});">
                   <a href="{{ .RelPermalink }}" class="center-text">
-                     {{ .Title }}
+                     {{ $page.Title }}
                     </a>
                       </div>
               {{ else }}
@@ -30,13 +30,12 @@
                   <a class="grid-item-noimage" href="{{ .RelPermalink }}">
 
                   {{ with $textcolor }}
-              <div class="grid-item-nohover center-text" style="color: {{.}}">
+              <div class="grid-item-nohover fit-in-parent center-text" style="color: {{.}}">
                  {{ $page.Title }}
                 </div>
 
               {{ end }}
-                  <div class="grid-item-hover center-text">{{ .Title }}</div>
-
+                  <div class="grid-item-hover fit-in-parent center-text">{{ .Title }}</div>
                 </a>
               </div>
             {{ end }}

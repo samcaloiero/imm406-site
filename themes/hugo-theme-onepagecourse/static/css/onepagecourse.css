@@ -69,23 +69,25 @@ html {
 .center-text{
   display: flex;
   justify-content: center;
-  text-align: center;
   align-items: center;
+}
+
+
+.grid-item div{
+  padding: .4em;
 
 }
 
 .grid-container div a .grid-item-hover{
-  text-align: center;
-  position: absolute;
-  top: 0;
-  bottom:0;
-  left: 0;
-  right: 0;
+
 }
 .grid-container div .grid-item-noimage{
   position: relative
 }
 .grid-container div .grid-item-nohover{
+
+}
+.fit-in-parent{
   position: absolute;
   top: 0;
   bottom:0;
