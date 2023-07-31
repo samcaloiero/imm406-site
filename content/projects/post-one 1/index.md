@@ -1,5 +1,6 @@
 ---
-title: Post 2
+title: Post Two No Image
+color: blue
 ---
 
 Hello, This is a post.

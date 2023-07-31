@@ -5,17 +5,43 @@
       {{ .Content }}
           <div class="grid-container">
           {{ range .Paginator.Pages }}
-              <div class="grid-item"
+              {{ $page := . }}
               {{ $image := .Resources.GetMatch "preview*" }}
               {{ with $image }}
                 {{ $image := $image.Fill "400x400 center" }}
-                  style="background: center / contain no-repeat url({{  $image.RelPermalink }});"
-            {{ end }}>
+                  <div class="grid-item grid-item-image" style="background: center / contain no-repeat url({{  $image.RelPermalink }});">
+                  <a href="{{ .RelPermalink }}" class="center-text">
+                     {{ .Title }}
+                    </a>
+                      </div>
+              {{ else }}
+               {{ $color := .Params.Color }}
+               {{ $textcolor := .Params.Textcolor }}
+
+              <div class="grid-item"
+              style="
+              {{ with $color }}
+                background-color: {{.}};
+              {{ end }}
+              "
               
-              <a href="{{ .RelPermalink }}">
-             {{ .Title }}
-            </a>
+              >
+             
+                  <a class="grid-item-noimage" href="{{ .RelPermalink }}">
+
+                  {{ with $textcolor }}
+              <div class="grid-item-nohover center-text" style="color: {{.}}">
+                 {{ $page.Title }}
+                </div>
+
+              {{ end }}
+                  <div class="grid-item-hover center-text">{{ .Title }}</div>
+
+                </a>
               </div>
+            {{ end }}
+              
+              
             {{ end }}
 
           </div>
