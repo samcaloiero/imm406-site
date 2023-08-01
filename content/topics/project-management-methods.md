@@ -1,8 +1,8 @@
 ---
-title: Project Management Methods
+title: Project Management & Debugging
 topic: 8
 ---
 
-- **Topic**: How Do Groups Organize
-- **In Class**: Discussion: Tales from the Trenches, Brainstorming Exercise
+- **Topic**: Debugging, How Do Groups Organize
+- **In Class**: Debugging Lecture. Discussion: Tales from the Trenches. Brainstorming Exercise
 - **Assignment**: [Project Management Research Presentation]({{< ref "assignments/project-management-research-presentation.md">}})
