@@ -3,7 +3,7 @@ title: Research Question Prototype
 order: 2
 ---
 
-This project revisits the environment sketches, except the purpose is exploration of the hardware.
+This project revisits the sketches, except the purpose is exploration of the hardware.
 
 Create 1-3 sketches for the system, with a unique goal. Have a single hardware/technical question in your mind, and explore it until you are satisfied you will be able to present some insight.
 
@@ -24,4 +24,4 @@ Title the project with the constraint/question you are exploring, and take scree
 -	Remember perception demos!
 
 ## Submission
-Reviewed and evaluated during next class. 
+Before class, upload screenshots and the title 

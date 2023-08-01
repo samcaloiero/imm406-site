@@ -12,4 +12,7 @@ Your sketches may be playing with similar ideas, but each one must be unique, an
 ## Submission
 Take a screenshot, video capture, photograph, or scan of each sketch as appropriate and upload it to the assignment in brightspace.
 
-Do a good job or else.
+## Evaluation
+Each Sketch will be evaluated on creativity and execution. Repetative sketches and missed executions will be marked.
+
+That being said, the evaluation of each sketch will be generous. I want to encourage taking that extra step in both creativity (and not repeating oneself) and execution (going that little bit further) as we refamiliarize ourselves with the tools.
