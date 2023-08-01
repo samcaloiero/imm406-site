@@ -11,3 +11,5 @@ Your sketches may be playing with similar ideas, but each one must be unique, an
 
 ## Submission
 Take a screenshot, video capture, photograph, or scan of each sketch as appropriate and upload it to the assignment in brightspace.
+
+Do a good job!
