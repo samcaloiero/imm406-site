@@ -30,4 +30,5 @@ There is clear A/B comparison. Further, one would be able to understand how they
 ### Rubric
 An up-to-date rubric is viewable with the assignment on brightspace.
 
+### Downloads
 - [Tilt Five Design Guidelines PDF Copy](/assignmentInfo/Tilt_Five_Design_Tips_and_Guidelines_2022_05_19.pdf)
