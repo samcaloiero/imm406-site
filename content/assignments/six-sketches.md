@@ -16,3 +16,8 @@ Take a screenshot, video capture, photograph, or scan of each sketch as appropri
 Each Sketch will be evaluated on creativity and execution. Repetative sketches and missed executions will be marked.
 
 That being said, the evaluation of each sketch will be generous. I want to encourage taking that extra step in both creativity (and not repeating oneself) and execution (going that little bit further) as we refamiliarize ourselves with the tools.
+
+## Rubric
+Each sketch will be evaluated with the following rubric:
+
+![You can also view the rubric on Brighstpace](/assignmentInfo/sixsketchrubric.png)
