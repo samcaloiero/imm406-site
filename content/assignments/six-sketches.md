@@ -9,6 +9,10 @@ Create 6 Unique sketches.
 A sketch is an exploration of an idea. Your sketches can be focused on playing with a visual idea, interaction, environment, or anything in between.
 Your sketches may be playing with similar ideas, but each one must be unique, and not simple or obvious variations of each other.
 
+The sketches are be for possible prototypes, interactions, or designs for the selected hardware of the class.
+
+> Despite suggestions from the reading, the sketches for this assignment are *not* thumbnail sketches, and should be taken further for the sake of exploring ideas and tools, and getting back into the workflows.
+
 - At least one sketch must be on paper
 - At least one sketch must be for the tilt five, in the final game engine
 - At least one sketch must be crafted from physical materials like cardboard or toys.
