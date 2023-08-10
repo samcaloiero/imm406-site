@@ -5,7 +5,7 @@ order: 4
 
 Work in groups to create a prototype, a finished and playable experience.
 
-This is a 2 week assignment.
+This is a 2 week assignment. Groups are required to use git for version control.
 
 ## Rubric
 Playtime: 1 Minute of user engagement
