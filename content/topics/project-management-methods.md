@@ -1,8 +1,8 @@
 ---
-title: Project Management & Debugging
+title: Presentations & Project Management
 topic: 8
 ---
 
-- **Topic**: Debugging, How Do Groups Organize
-- **In Class**: Debugging Lecture. Discussion: Tales from the Trenches. Brainstorming Exercise. 3-2-1's.
-- **Assignment**: [Project Management Research Presentation]({{< ref "assignments/project-management-research-presentation.md">}})
+- **Topic**: How Do Groups Organize? Goals of Project Management
+- **In Class**: Discussion: Software Complexity. Brainstorming Exercise.
+- **Assignment**: Pitch sketch. Be prepared to pitch your idea for prototype 2 in the form of a sketch, proof-of-concept, or prototype. See brightspace.
