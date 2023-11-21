@@ -1,16 +1,17 @@
 {{ define "main" }}
   <main>
-    
+
  <h1>{{ .Title }}</h1>
       {{ .Content }}
           <div class="grid-container">
           {{ range .Paginator.Pages }}
               {{ $page := . }}
               {{ $image := .Resources.GetMatch "preview*" }}
+              {{ $link := .RelPermalink }}
               {{ with $image }}
                 {{ $image := $image.Fill "400x400 center" }}
                   <div class="grid-item grid-item-image" style="background: center / contain no-repeat url({{  $image.RelPermalink }});">
-                  <a href="{{ .RelPermalink }}" class="center-text">
+                  <a href="{{ $link }}" class="center-text">
                      {{ $page.Title }}
                     </a>
                       </div>
@@ -24,10 +25,10 @@
                 background-color: {{.}};
               {{ end }}
               "
-              
+
               >
-             
-                  <a class="grid-item-noimage" href="{{ .RelPermalink }}">
+
+                  <a class="grid-item-noimage" href="{{ $link }}">
 
                   {{ with $textcolor }}
               <div class="grid-item-nohover fit-in-parent center-text" style="color: {{.}}">
@@ -39,8 +40,8 @@
                 </a>
               </div>
             {{ end }}
-              
-              
+
+
             {{ end }}
 
           </div>
