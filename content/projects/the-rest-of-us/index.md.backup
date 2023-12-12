@@ -12,10 +12,7 @@ Title: Vortex-Style Brick Breaker Game
 #### Sam Caloiero's Second Prototype Documentation\
 
 This Vortex-Style Brick Breaker game uses a player's hand and maps its location to a rotating paddle.  From this paddle the player shoots a ball that hits rotating bricks around a "teshi" or sci-fi cylinder. The player then needs to bounce the ball back towards the bricks by hitting the ball on the paddle.  When each brick is destroyed the player gains more points towards their score.  Whenever the ball passes the player there is a reduction in lives.  Whenever a players life count hits 0 the game is over.  The player is presented with their final score and the option to play again.
-
-![In Game Content](/projects/the-rest-of-us/Game_Scene.jpg)
-
- 
+![In Game Content](/projects/the-rest-of-us/Game_Scene.jpg) 
  
 ![In Game Video Content](https://youtu.be/bkUqFD4SOgI) 
 
