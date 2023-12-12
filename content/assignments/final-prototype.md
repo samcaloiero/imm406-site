@@ -21,3 +21,8 @@ Groupwork: Work distributed effectively, communication handled clearly.
 
 ## Individual Technical Notes
 You will be required to document the technical notes you are creating while working on the project, for a separate, individual, pass/fail grade.
+
+## Submission
+- readme.txt file, see syllabus for requirements
+- Working Build, bundled in a .zip file
+- Images and Videos from your (website) Documentation. *Creating documentation for the projects page of this site is a separately graded assignment, but please upload the media artifacts for project archives.*
